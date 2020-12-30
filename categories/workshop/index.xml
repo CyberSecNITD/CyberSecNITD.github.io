@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on </title>
+    <link>https://cybersec.upvision.co/categories/workshop/</link>
+    <description>Recent content in Workshop on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2020 02:34:17 +0530</lastBuildDate>
+    
+	<atom:link href="https://cybersec.upvision.co/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0x01 - segfault</title>
+      <link>https://cybersec.upvision.co/segfault/0x01/</link>
+      <pubDate>Fri, 14 Feb 2020 02:34:17 +0530</pubDate>
+      
+      <guid>https://cybersec.upvision.co/segfault/0x01/</guid>
+      <description>This workshop was conducted on Wednesday 12th Feb, 2020.
+Notes From the Slides  CPU Architecture - John Von Neumann Architecture  Registers, Control Unit, Memory, ALU  C code, assembly, binary  compiler and assembler disassembler and decompiler  ELF Binary Format  Linux expects the binary to follow this format in order to run it. Well documented here System V ABI Specification readelf -h &amp;lt;binary file&amp;gt; gives you header information  X86 Assembly  The Guide https://www.</description>
+    </item>
+    
+    <item>
+      <title>0x00 - Segfault</title>
+      <link>https://cybersec.upvision.co/segfault/0x00/</link>
+      <pubDate>Fri, 24 Jan 2020 00:23:08 +0530</pubDate>
+      
+      <guid>https://cybersec.upvision.co/segfault/0x00/</guid>
+      <description>This workshop was conducted on Wednesday 22nd Jan, 2020. This was given to students of first years of all discipline.
+Notes From the slides  Introduction to field of Reverse Engineering Perspective of a Reverse Engineer to Computer Software Demos  Task: Find the default password in password protect valut program  Difference b/w Binary file and Text File Using strings from binutls to find the password text in the executable program  Task: protostar stack0 exercise  Stack Data structure for storing program variables Vulnerability in gets() function as described in the manpage Introduction to Buffer Overflow Exploit.</description>
+    </item>
+    
+    <item>
+      <title>Segfault - Reverse Engineering Workshop series</title>
+      <link>https://cybersec.upvision.co/events/segfault/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/segfault/</guid>
+      <description>Okay, we were shut for a very long time! Our founders graduated, things were dormant. It&amp;rsquo;s time for a change.
+It all started with conversation with a freshman, I told them we had a club and probably we can do a meetup to bring it back. So, I decided to start with a new workshop series which I have given the name - &amp;ldquo;Segfault&amp;rdquo;.
+Segfault will be a series of workshops on reverse engineering.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ctf on </title>
+    <link>https://cybersec.upvision.co/tags/ctf/</link>
+    <description>Recent content in Ctf on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cybersec.upvision.co/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Root CTF 2018</title>
+      <link>https://cybersec.upvision.co/events/rootctf18/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/rootctf18/</guid>
+      <description>The time has come to do it again!
+Root CTF, a CTF event organized by CyberSecNITD every year in TerraTechnica NITD&amp;rsquo;s Annual Techfest.
+The CTF was Jeopardy style and was conducted in offline mode.
+We witnessed 11 teams having students from NITD and from other Colleges too. That was a huge progress for us from RootCTF17 where all our participants were students from NITD only.
+Since last year&amp;rsquo;s CTF, we got the opportunity to learn more on topics in CyberSecurity.</description>
+    </item>
+    
+  </channel>
+</rss>

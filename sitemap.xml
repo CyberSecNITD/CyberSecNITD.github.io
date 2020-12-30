@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cybersec.upvision.co/segfault/0x01/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/segfault/reverse-c-program/</loc>
+    <lastmod>2020-02-11T21:32:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/segfault/0x00/</loc>
+    <lastmod>2020-01-24T00:23:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/events/segfault/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/events/feb19ieeemeetup/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/events/rootctf18/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/about/</loc>
+    <lastmod>2018-05-30T19:03:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/slides/0x01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/slides/19feb_introduction_to_cybersec/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/slides/s0w1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/ctf/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/categories/event/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/meetup/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/post/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/reverse-engineering/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/segfault/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/categories/segfault/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/slides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/tags/workshop/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cybersec.upvision.co/categories/workshop/</loc>
+    <lastmod>2020-02-14T02:34:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

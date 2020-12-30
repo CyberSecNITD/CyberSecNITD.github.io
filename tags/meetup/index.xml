@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on </title>
+    <link>https://cybersec.upvision.co/tags/meetup/</link>
+    <description>Recent content in Meetup on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cybersec.upvision.co/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberSecNITD meetup with IEEE NITD student branch</title>
+      <link>https://cybersec.upvision.co/events/feb19ieeemeetup/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/feb19ieeemeetup/</guid>
+      <description>Today we collaborated with IEEE NITD Student Branch and organized a Introductory workshop.
+Since being an independent club with students of common interest we thought it would be better if we do some serious workshop helping the freshman year students jump into the CyberSecurity Band Wagon!
+The crowd we received was impressive! We never had a meetup with such a huge crowd before.
+Since we are bunch of students with mediocre GPA trying to bust our keyboard typing out cryptic words what we describe as commands on dumb boring terminal doesn&amp;rsquo;t easily qualify as a Club with organization and publicity, today was important.</description>
+    </item>
+    
+  </channel>
+</rss>

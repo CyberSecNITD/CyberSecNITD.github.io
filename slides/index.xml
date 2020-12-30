@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on </title>
+    <link>https://cybersec.upvision.co/slides/</link>
+    <description>Recent content in Slides on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://cybersec.upvision.co/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://cybersec.upvision.co/slides/0x01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/slides/0x01/</guid>
+      <description>0x01 Binary Analysis  code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;}   var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;https://revealjs.com/css/print/pdf.css&#39; : &#39;https://revealjs.com/css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );      0x01 - Binary Analysis Segfault - Reverse Engineering Workshop
+29-02-2020
+ Agenda How CPU executes code? Understanding Assembly Language Reversing a C program  How CPU executes code?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cybersec.upvision.co/slides/19feb_introduction_to_cybersec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/slides/19feb_introduction_to_cybersec/</guid>
+      <description>Cyber Security code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;}   var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;https://revealjs.com/css/print/pdf.css&#39; : &#39;https://revealjs.com/css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );      Cyber Security Vighnesh Sk
+19th Feb, 2019
+ $whoami What?!? CybersecurityDigital Age Forget Guns and Bombs, now we have servers and payloads.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cybersec.upvision.co/slides/s0w1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/slides/s0w1/</guid>
+      <description>Reverse Engineering  code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;}   var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = window.location.search.match( /print-pdf/gi ) ? &#39;https://revealjs.com/css/print/pdf.css&#39; : &#39;https://revealjs.com/css/print/paper.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );      Reverse Engineering Stage 0 Workshop 1
+ $whoamiVighnesh Sk, CSE 4th year
+I don’t hack, linux evangalism, Dev, Maker.
+ Github: https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

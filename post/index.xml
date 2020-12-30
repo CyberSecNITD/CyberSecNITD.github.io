@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://cybersec.upvision.co/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2020 02:34:17 +0530</lastBuildDate>
+    
+	<atom:link href="https://cybersec.upvision.co/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0x01 - segfault</title>
+      <link>https://cybersec.upvision.co/segfault/0x01/</link>
+      <pubDate>Fri, 14 Feb 2020 02:34:17 +0530</pubDate>
+      
+      <guid>https://cybersec.upvision.co/segfault/0x01/</guid>
+      <description>This workshop was conducted on Wednesday 12th Feb, 2020.
+Notes From the Slides  CPU Architecture - John Von Neumann Architecture  Registers, Control Unit, Memory, ALU  C code, assembly, binary  compiler and assembler disassembler and decompiler  ELF Binary Format  Linux expects the binary to follow this format in order to run it. Well documented here System V ABI Specification readelf -h &amp;lt;binary file&amp;gt; gives you header information  X86 Assembly  The Guide https://www.</description>
+    </item>
+    
+    <item>
+      <title>Reversing a C program</title>
+      <link>https://cybersec.upvision.co/segfault/reverse-c-program/</link>
+      <pubDate>Tue, 11 Feb 2020 21:32:10 +0530</pubDate>
+      
+      <guid>https://cybersec.upvision.co/segfault/reverse-c-program/</guid>
+      <description>Reversing a C Program It&amp;rsquo;s said C is low level programming language, well that&amp;rsquo;s not true. It became that way because of advancements in new programming languages such as Python, Java, Javascript, Ruby. These run on a VM, thereby incur a heavy abstraction cost.
+Now C programs are compiled to assembly, since C have not much syntax sugar it become easy to read the Assembly and figure out the possible C code to it.</description>
+    </item>
+    
+    <item>
+      <title>0x00 - Segfault</title>
+      <link>https://cybersec.upvision.co/segfault/0x00/</link>
+      <pubDate>Fri, 24 Jan 2020 00:23:08 +0530</pubDate>
+      
+      <guid>https://cybersec.upvision.co/segfault/0x00/</guid>
+      <description>This workshop was conducted on Wednesday 22nd Jan, 2020. This was given to students of first years of all discipline.
+Notes From the slides  Introduction to field of Reverse Engineering Perspective of a Reverse Engineer to Computer Software Demos  Task: Find the default password in password protect valut program  Difference b/w Binary file and Text File Using strings from binutls to find the password text in the executable program  Task: protostar stack0 exercise  Stack Data structure for storing program variables Vulnerability in gets() function as described in the manpage Introduction to Buffer Overflow Exploit.</description>
+    </item>
+    
+    <item>
+      <title>Segfault - Reverse Engineering Workshop series</title>
+      <link>https://cybersec.upvision.co/events/segfault/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/segfault/</guid>
+      <description>Okay, we were shut for a very long time! Our founders graduated, things were dormant. It&amp;rsquo;s time for a change.
+It all started with conversation with a freshman, I told them we had a club and probably we can do a meetup to bring it back. So, I decided to start with a new workshop series which I have given the name - &amp;ldquo;Segfault&amp;rdquo;.
+Segfault will be a series of workshops on reverse engineering.</description>
+    </item>
+    
+    <item>
+      <title>CyberSecNITD meetup with IEEE NITD student branch</title>
+      <link>https://cybersec.upvision.co/events/feb19ieeemeetup/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/feb19ieeemeetup/</guid>
+      <description>Today we collaborated with IEEE NITD Student Branch and organized a Introductory workshop.
+Since being an independent club with students of common interest we thought it would be better if we do some serious workshop helping the freshman year students jump into the CyberSecurity Band Wagon!
+The crowd we received was impressive! We never had a meetup with such a huge crowd before.
+Since we are bunch of students with mediocre GPA trying to bust our keyboard typing out cryptic words what we describe as commands on dumb boring terminal doesn&amp;rsquo;t easily qualify as a Club with organization and publicity, today was important.</description>
+    </item>
+    
+    <item>
+      <title>Root CTF 2018</title>
+      <link>https://cybersec.upvision.co/events/rootctf18/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersec.upvision.co/events/rootctf18/</guid>
+      <description>The time has come to do it again!
+Root CTF, a CTF event organized by CyberSecNITD every year in TerraTechnica NITD&amp;rsquo;s Annual Techfest.
+The CTF was Jeopardy style and was conducted in offline mode.
+We witnessed 11 teams having students from NITD and from other Colleges too. That was a huge progress for us from RootCTF17 where all our participants were students from NITD only.
+Since last year&amp;rsquo;s CTF, we got the opportunity to learn more on topics in CyberSecurity.</description>
+    </item>
+    
+  </channel>
+</rss>
